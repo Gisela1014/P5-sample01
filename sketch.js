@@ -11,6 +11,7 @@ function draw() {
   //background(153, 204, 255)
   fill(0, 0, 0, 50)
   stroke(255)
+  ellipse(mouseX,mouseY,250,250)
   ellipse(x,y,25,25) 
   fill(0,0,120,20)
   rect(x,y,50,50)

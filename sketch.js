@@ -25,5 +25,7 @@ function draw() {
   x = x + 5
   y = y + 4
   console.log(x)
+  
+  text("Digital Media Programming",220,330)
 
 }
